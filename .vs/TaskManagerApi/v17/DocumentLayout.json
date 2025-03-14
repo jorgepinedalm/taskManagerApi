@@ -11,12 +11,12 @@
       "RelativeMoniker": "D:0:0:{5D0C654E-44A9-4873-8531-653BB88D3A9D}|TaskManagerApi\\TaskManagerApi.csproj|solutionrelative:taskmanagerapi\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D0C654E-44A9-4873-8531-653BB88D3A9D}|TaskManagerApi\\TaskManagerApi.csproj|c:\\users\\asus\\source\\repos\\taskmanagerapi\\taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D0C654E-44A9-4873-8531-653BB88D3A9D}|TaskManagerApi\\TaskManagerApi.csproj|solutionrelative:taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5D0C654E-44A9-4873-8531-653BB88D3A9D}|TaskManagerApi\\TaskManagerApi.csproj|c:\\users\\asus\\source\\repos\\taskmanagerapi\\taskmanagerapi\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5D0C654E-44A9-4873-8531-653BB88D3A9D}|TaskManagerApi\\TaskManagerApi.csproj|solutionrelative:taskmanagerapi\\data\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0C654E-44A9-4873-8531-653BB88D3A9D}|TaskManagerApi\\TaskManagerApi.csproj|c:\\users\\asus\\source\\repos\\taskmanagerapi\\taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D0C654E-44A9-4873-8531-653BB88D3A9D}|TaskManagerApi\\TaskManagerApi.csproj|solutionrelative:taskmanagerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TaskManagerApi\\TaskManagerApi\\Program.cs",
               "RelativeDocumentMoniker": "TaskManagerApi\\Program.cs",
@@ -38,8 +38,7 @@
               "RelativeToolTip": "TaskManagerApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T03:24:43.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T03:24:43.38Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "TaskManagerApi\\Controllers\\TasksController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\TaskManagerApi\\TaskManagerApi\\Controllers\\TasksController.cs",
               "RelativeToolTip": "TaskManagerApi\\Controllers\\TasksController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAywDgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T03:24:17.032Z",
               "EditorCaption": ""
@@ -69,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TaskDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\TaskManagerApi\\TaskManagerApi\\Data\\TaskDbContext.cs",
               "RelativeDocumentMoniker": "TaskManagerApi\\Data\\TaskDbContext.cs",
