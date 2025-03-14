@@ -89,7 +89,8 @@ Si el backend se ejecuta en otro puerto o dominio, modifica este valor.
 
 ## 🌍 Despliegue (Opcional)
 
-El despliegue para el backend se realiza a través del asistente de Visual Studio desde el cual se tiene acceso a la suscripción de la cuenta con la que se creó el recurso donde se desplegó la aplicación. Puede tener acceso a la aplicación desplegada desde: (https://taskmanagerapi20250313114734-hrehhsgzfzezhwdv.eastus-01.azurewebsites.net/api/tasks)[https://taskmanagerapi20250313114734-hrehhsgzfzezhwdv.eastus-01.azurewebsites.net/api/tasks]
+El despliegue para el backend se realiza a través del asistente de Visual Studio desde el cual se tiene acceso a la suscripción de la cuenta con la que se creó el recurso donde se desplegó la aplicación. Puede tener acceso a la aplicación desplegada desde: 
+[https://taskmanagerapi20250313114734-hrehhsgzfzezhwdv.eastus-01.azurewebsites.net/api/tasks](https://taskmanagerapi20250313114734-hrehhsgzfzezhwdv.eastus-01.azurewebsites.net/api/tasks)
 
 ## 🎯 Mejoras Futuras (Extras)
 
